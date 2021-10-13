@@ -1,1 +1,1 @@
-print('Gabriel Siva is best programmer of world!')
+print('Gabriel Siva is the best!')
